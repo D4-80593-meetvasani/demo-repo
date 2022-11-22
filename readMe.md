@@ -1,12 +1,12 @@
 
-# demo
+# demo header
 
-## sub header
+## sub header of header
 
-some text
+some text some description
 
 
-## local development
+## local development hai bhai
 
 1. open index.html in your browser and run
 2. some changes and other changes 
